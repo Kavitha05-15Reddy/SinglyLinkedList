@@ -1,0 +1,7 @@
+C:\Users\Ramanjaneyareddy\source\repos\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe.config
+C:\Users\Ramanjaneyareddy\source\repos\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe
+C:\Users\Ramanjaneyareddy\source\repos\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.pdb
+C:\Users\Ramanjaneyareddy\source\repos\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.csproj.AssemblyReference.cache
+C:\Users\Ramanjaneyareddy\source\repos\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Ramanjaneyareddy\source\repos\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.exe
+C:\Users\Ramanjaneyareddy\source\repos\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.pdb
